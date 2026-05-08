@@ -3,6 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/nestjs-socket-presence.svg)](https://www.npmjs.com/package/nestjs-socket-presence)
 [![npm downloads](https://img.shields.io/npm/dm/nestjs-socket-presence.svg)](https://www.npmjs.com/package/nestjs-socket-presence)
 [![license](https://img.shields.io/npm/l/nestjs-socket-presence.svg)](LICENSE)
+[![CI](https://github.com/SaifuddinTipu/nestjs-socket-presence/actions/workflows/ci.yml/badge.svg)](https://github.com/SaifuddinTipu/nestjs-socket-presence/actions/workflows/ci.yml)
 [![tests](https://img.shields.io/badge/tests-22%20passing-brightgreen.svg)](https://github.com/SaifuddinTipu/nestjs-socket-presence)
 
 > Drop-in NestJS module for real-time user presence tracking via **Socket.IO** and **Redis**.  
